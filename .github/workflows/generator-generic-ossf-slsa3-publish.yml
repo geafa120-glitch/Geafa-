@@ -1,0 +1,15 @@
+Create a mobile-friendly movie and TV series streaming web app called GEAFA MOVIEC.
+
+Requirements:
+
+- Arabic-first interface with right-to-left layout.
+- Premium black and gold cinematic design.
+- Home page with movie and series cards.
+- Search and favorites.
+- Video player for legally obtained video files.
+- Support for loading external SRT subtitle files and displaying Arabic subtitles.
+- Subtitle settings for font size, color, and timing.
+- Responsive design for Android and iPhone screens.
+- Do not use copyrighted movies or videos without permission.
+- Add a clearly labeled demo catalog using fictional sample content.
+- Build a working prototype with functional navigation and playback for user-selected local video files where browser support allows.
